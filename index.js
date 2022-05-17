@@ -23,5 +23,5 @@ bot.on('message', function (event) {
 })
 
 bot.listen('/', process.env.PORT || 3000, () => {
-  console.log('機器人GO')
+  console.log('機器人GO!!')
 })
